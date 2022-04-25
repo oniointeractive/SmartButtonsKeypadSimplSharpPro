@@ -1,4 +1,4 @@
-# Smart Buttons Keypad - Simpl#Pro
+# Smart Graphics Keypad - Simpl#Pro
  
 In this repository, you can find a VisionTools Pro-e archive (Frontend Archieve.rar), and Simpl#Pro code (rest of the code).
 
