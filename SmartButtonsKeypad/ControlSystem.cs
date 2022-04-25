@@ -100,7 +100,7 @@ namespace SmartButtonsKeypad
         {
             try
             {
-                const string location = "/user/Smart_Button.sgd";
+                const string location = "/user/SmartButton.sgd";
                 if (!File.Exists(location)) return;
                 currentDevice.LoadSmartObjects(location);
                 foreach (KeyValuePair<uint, SmartObject> kvp in currentDevice.SmartObjects)
