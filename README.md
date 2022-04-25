@@ -1,5 +1,5 @@
-# SmartButtonsKeypadSimplSharpPro
-
+# Smart Buttons Keypad - Simpl#Pro
+ 
 In this repository, you can find a VisionTools Pro-e archive (Frontend Archieve.rar), and Simpl#Pro code (rest of the code).
 
 This is an example project where you can see how to load and use a smart graphics keypad in the combination with the VTPro-e frontend part and Simpl#Pro backend part.
